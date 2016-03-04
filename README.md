@@ -1,9 +1,11 @@
-﻿##Coursera Getting and Cleaning Data Week3 Assignment 
+##Samsung Dataset Cleaning and Processing
+
+Coursera Assignment - Getting and Cleaning Data
 
 ==================================================================
 
 
-###Assignment Goals:
+###Goals:
 
 Create one R script called run_analysis.R that does the following
 
