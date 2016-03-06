@@ -1,6 +1,6 @@
 ﻿##Code book for run_analysis.R and the output dataset "tidyData"
 
-Coursera Getting and Cleaning Data Week3 Assignment
+This is a course assignment for Getting and Cleaning Data, Data Science Specialization by Johns Hopkins University via Coursera
 
 ==================================================================
 
