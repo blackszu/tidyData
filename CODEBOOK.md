@@ -2,6 +2,8 @@
 
 This is a course assignment for Getting and Cleaning Data, Data Science Specialization by Johns Hopkins University via Coursera
 
+**Author: S. Wu**
+
 ==================================================================
 
 ###Assignment Goals:
