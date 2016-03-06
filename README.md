@@ -1,6 +1,6 @@
 ##Samsung Dataset Cleaning and Processing
 
-Coursera Assignment - Getting and Cleaning Data
+This is a course assignment for Getting and Cleaning Data, Data Science Specialization by Johns Hopkins University via Coursera
 
 ==================================================================
 
