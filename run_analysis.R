@@ -1,4 +1,5 @@
-## Getting and Cleaning Data Week 3 Programming Assignment
+## Getting and Cleaning Data Assignment
+## Author: S. Wu
 ## Please unzip and save the Samsung data in the R working directory
 ## See CODEBOOK.md for files required from the Samsung dataset
 
